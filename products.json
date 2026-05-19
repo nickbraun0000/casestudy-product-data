@@ -180,5 +180,66 @@
   "QTYONHAND": "32",
   "QTYONBACKORDER": "0",
   "DESCRIPTION": "Flexible athletic shorts with lightweight material and breathable construction made for active lifestyles and training."
+},
+  ,
+{
+  "ID": "UA-HOVRSONIC",
+  "BRANDID": "3",
+  "BRAND": "UNDER ARMOUR",
+  "ITEM": "HOVR Sonic Running Shoes",
+  "GRAPHICNAME": "hovrsonic.png",
+  "COSTPRICE": "82.00",
+  "MSRP": "169.99",
+  "QTYONHAND": "16",
+  "QTYONBACKORDER": "2",
+  "DESCRIPTION": "Performance running shoes designed with responsive cushioning and durable support for training and fitness activities."
+},
+{
+  "ID": "UA-RIVALHOODIE",
+  "BRANDID": "3",
+  "BRAND": "UNDER ARMOUR",
+  "ITEM": "Rival Fleece Hoodie",
+  "GRAPHICNAME": "rivalhoodie.png",
+  "COSTPRICE": "36.50",
+  "MSRP": "79.99",
+  "QTYONHAND": "21",
+  "QTYONBACKORDER": "1",
+  "DESCRIPTION": "Warm fleece hoodie featuring a relaxed fit and soft fabric that is suitable for sports, school, and casual use."
+},
+{
+  "ID": "UA-HEATGEARTEE",
+  "BRANDID": "3",
+  "BRAND": "UNDER ARMOUR",
+  "ITEM": "HeatGear Compression Shirt",
+  "GRAPHICNAME": "heatgeartee.png",
+  "COSTPRICE": "20.25",
+  "MSRP": "49.99",
+  "QTYONHAND": "27",
+  "QTYONBACKORDER": "0",
+  "DESCRIPTION": "Compression athletic shirt designed to improve comfort and moisture control during intense training and workouts."
+},
+{
+  "ID": "UA-HUSTLEBP",
+  "BRANDID": "3",
+  "BRAND": "UNDER ARMOUR",
+  "ITEM": "Hustle Backpack",
+  "GRAPHICNAME": "hustlebp.png",
+  "COSTPRICE": "26.75",
+  "MSRP": "64.99",
+  "QTYONHAND": "19",
+  "QTYONBACKORDER": "2",
+  "DESCRIPTION": "Water resistant backpack with padded straps and storage pockets that works well for school, sports, and travel."
+},
+{
+  "ID": "UA-PLAYUPSHORTS",
+  "BRANDID": "3",
+  "BRAND": "UNDER ARMOUR",
+  "ITEM": "Play Up Athletic Shorts",
+  "GRAPHICNAME": "playupshorts.png",
+  "COSTPRICE": "14.25",
+  "MSRP": "34.99",
+  "QTYONHAND": "32",
+  "QTYONBACKORDER": "0",
+  "DESCRIPTION": "Flexible athletic shorts with lightweight material and breathable construction made for active lifestyles and training."
 }
 ]

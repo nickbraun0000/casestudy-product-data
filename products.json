@@ -2,7 +2,7 @@
   {
     "ID": "NIKE-AIRMAX270",
     "BRANDID": "1",
-    "BRAND": "NIKE",
+    "BRAND": "Nike",
     "ITEM": "Air Max 270 Running Shoes",
     "GRAPHICNAME": "airmax270.png",
     "COSTPRICE": "89.99",
@@ -14,7 +14,7 @@
   {
     "ID": "NIKE-TECHFLEECE",
     "BRANDID": "1",
-    "BRAND": "NIKE",
+    "BRAND": "Nike",
     "ITEM": "Tech Fleece Hoodie",
     "GRAPHICNAME": "techfleece.png",
     "COSTPRICE": "55.00",
@@ -26,7 +26,7 @@
   {
     "ID": "NIKE-PROTEE",
     "BRANDID": "1",
-    "BRAND": "NIKE",
+    "BRAND": "Nike",
     "ITEM": "Nike Pro Training Shirt",
     "GRAPHICNAME": "protee.png",
     "COSTPRICE": "18.50",
@@ -38,7 +38,7 @@
   {
     "ID": "NIKE-HERITAGEBP",
     "BRANDID": "1",
-    "BRAND": "NIKE",
+    "BRAND": "Nike",
     "ITEM": "Heritage Backpack",
     "GRAPHICNAME": "heritagebp.png",
     "COSTPRICE": "22.75",
@@ -50,7 +50,7 @@
   {
     "ID": "NIKE-DRIFITSHORTS",
     "BRANDID": "1",
-    "BRAND": "NIKE",
+    "BRAND": "Nike",
     "ITEM": "Dri-FIT Training Shorts",
     "GRAPHICNAME": "drifitshorts.png",
     "COSTPRICE": "16.00",
@@ -63,7 +63,7 @@
   {
     "ID": "ADIDAS-ULTRABOOST",
     "BRANDID": "2",
-    "BRAND": "ADIDAS",
+    "BRAND": "Adidas",
     "ITEM": "Ultraboost Running Shoes",
     "GRAPHICNAME": "ultraboost.png",
     "COSTPRICE": "95.50",
@@ -75,7 +75,7 @@
   {
     "ID": "ADIDAS-TIROJACKET",
     "BRANDID": "2",
-    "BRAND": "ADIDAS",
+    "BRAND": "Adidas",
     "ITEM": "Tiro Track Jacket",
     "GRAPHICNAME": "tirojacket.png",
     "COSTPRICE": "42.25",
@@ -87,7 +87,7 @@
   {
     "ID": "ADIDAS-ESSENTIALTEE",
     "BRANDID": "2",
-    "BRAND": "ADIDAS",
+    "BRAND": "Adidas",
     "ITEM": "Essentials Logo T-Shirt",
     "GRAPHICNAME": "essentialtee.png",
     "COSTPRICE": "12.50",
@@ -99,7 +99,7 @@
   {
     "ID": "ADIDAS-STADIUMBAG",
     "BRANDID": "2",
-    "BRAND": "ADIDAS",
+    "BRAND": "Adidas",
     "ITEM": "Stadium Duffel Bag",
     "GRAPHICNAME": "stadiumbag.png",
     "COSTPRICE": "29.99",
@@ -111,7 +111,7 @@
   {
     "ID": "ADIDAS-3STRIPESHORTS",
     "BRANDID": "2",
-    "BRAND": "ADIDAS",
+    "BRAND": "Adidas",
     "ITEM": "3-Stripes Athletic Shorts",
     "GRAPHICNAME": "3stripeshorts.png",
     "COSTPRICE": "15.75",
@@ -123,7 +123,7 @@
   {
     "ID": "UA-HOVRSONIC",
     "BRANDID": "3",
-    "BRAND": "UNDER ARMOUR",
+    "BRAND": "Under Armour",
     "ITEM": "HOVR Sonic Running Shoes",
     "GRAPHICNAME": "hovrsonic.png",
     "COSTPRICE": "82.00",
@@ -135,7 +135,7 @@
   {
     "ID": "UA-RIVALHOODIE",
     "BRANDID": "3",
-    "BRAND": "UNDER ARMOUR",
+    "BRAND": "Under Armour",
     "ITEM": "Rival Fleece Hoodie",
     "GRAPHICNAME": "rivalhoodie.png",
     "COSTPRICE": "36.50",
@@ -147,7 +147,7 @@
   {
     "ID": "UA-HEATGEARTEE",
     "BRANDID": "3",
-    "BRAND": "UNDER ARMOUR",
+    "BRAND": "Under Armour",
     "ITEM": "HeatGear Compression Shirt",
     "GRAPHICNAME": "heatgeartee.png",
     "COSTPRICE": "20.25",
@@ -159,7 +159,7 @@
   {
     "ID": "UA-HUSTLEBP",
     "BRANDID": "3",
-    "BRAND": "UNDER ARMOUR",
+    "BRAND": "Under Armour",
     "ITEM": "Hustle Backpack",
     "GRAPHICNAME": "hustlebp.png",
     "COSTPRICE": "26.75",
@@ -171,7 +171,7 @@
   {
     "ID": "UA-PLAYUPSHORTS",
     "BRANDID": "3",
-    "BRAND": "UNDER ARMOUR",
+    "BRAND": "Under Armour",
     "ITEM": "Play Up Athletic Shorts",
     "GRAPHICNAME": "playupshorts.png",
     "COSTPRICE": "14.25",

@@ -1,0 +1,123 @@
+[
+  {
+    "ID": "NIKE-AIRMAX270",
+    "BRANDID": "1",
+    "BRAND": "NIKE",
+    "ITEM": "Air Max 270 Running Shoes",
+    "GRAPHICNAME": "airmax270.png",
+    "COSTPRICE": "89.99",
+    "MSRP": "189.99",
+    "QTYONHAND": "20",
+    "QTYONBACKORDER": "4",
+    "DESCRIPTION": "Comfortable athletic running shoes with responsive cushioning and breathable materials designed for daily workouts and casual wear."
+  },
+  {
+    "ID": "NIKE-TECHFLEECE",
+    "BRANDID": "1",
+    "BRAND": "NIKE",
+    "ITEM": "Tech Fleece Hoodie",
+    "GRAPHICNAME": "techfleece.png",
+    "COSTPRICE": "55.00",
+    "MSRP": "129.99",
+    "QTYONHAND": "15",
+    "QTYONBACKORDER": "2",
+    "DESCRIPTION": "Lightweight fleece hoodie that provides warmth, comfort, and a modern athletic style suitable for everyday activities."
+  },
+  {
+    "ID": "NIKE-PROTEE",
+    "BRANDID": "1",
+    "BRAND": "NIKE",
+    "ITEM": "Nike Pro Training Shirt",
+    "GRAPHICNAME": "protee.png",
+    "COSTPRICE": "18.50",
+    "MSRP": "44.99",
+    "QTYONHAND": "35",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "Moisture wicking athletic training shirt designed to keep athletes cool and comfortable during sports and exercise."
+  },
+  {
+    "ID": "NIKE-HERITAGEBP",
+    "BRANDID": "1",
+    "BRAND": "NIKE",
+    "ITEM": "Heritage Backpack",
+    "GRAPHICNAME": "heritagebp.png",
+    "COSTPRICE": "22.75",
+    "MSRP": "59.99",
+    "QTYONHAND": "18",
+    "QTYONBACKORDER": "1",
+    "DESCRIPTION": "Durable backpack with multiple storage compartments that is ideal for school, travel, sports equipment, and daily use."
+  },
+  {
+    "ID": "NIKE-DRIFITSHORTS",
+    "BRANDID": "1",
+    "BRAND": "NIKE",
+    "ITEM": "Dri-FIT Training Shorts",
+    "GRAPHICNAME": "drifitshorts.png",
+    "COSTPRICE": "16.00",
+    "MSRP": "39.99",
+    "QTYONHAND": "28",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "Breathable athletic shorts featuring sweat wicking fabric and flexible movement for gym workouts and outdoor activities."
+  },
+
+  {
+    "ID": "ADIDAS-ULTRABOOST",
+    "BRANDID": "2",
+    "BRAND": "ADIDAS",
+    "ITEM": "Ultraboost Running Shoes",
+    "GRAPHICNAME": "ultraboost.png",
+    "COSTPRICE": "95.50",
+    "MSRP": "199.99",
+    "QTYONHAND": "17",
+    "QTYONBACKORDER": "3",
+    "DESCRIPTION": "Premium running shoes with responsive cushioning and supportive construction built for comfort during long distance runs."
+  },
+  {
+    "ID": "ADIDAS-TIROJACKET",
+    "BRANDID": "2",
+    "BRAND": "ADIDAS",
+    "ITEM": "Tiro Track Jacket",
+    "GRAPHICNAME": "tirojacket.png",
+    "COSTPRICE": "42.25",
+    "MSRP": "89.99",
+    "QTYONHAND": "14",
+    "QTYONBACKORDER": "2",
+    "DESCRIPTION": "Athletic track jacket with lightweight fabric and a streamlined fit designed for training sessions and casual wear."
+  },
+  {
+    "ID": "ADIDAS-ESSENTIALTEE",
+    "BRANDID": "2",
+    "BRAND": "ADIDAS",
+    "ITEM": "Essentials Logo T-Shirt",
+    "GRAPHICNAME": "essentialtee.png",
+    "COSTPRICE": "12.50",
+    "MSRP": "34.99",
+    "QTYONHAND": "40",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "Soft cotton t shirt featuring a classic logo design that provides comfort and versatility for everyday activities."
+  },
+  {
+    "ID": "ADIDAS-STADIUMBAG",
+    "BRANDID": "2",
+    "BRAND": "ADIDAS",
+    "ITEM": "Stadium Duffel Bag",
+    "GRAPHICNAME": "stadiumbag.png",
+    "COSTPRICE": "29.99",
+    "MSRP": "69.99",
+    "QTYONHAND": "12",
+    "QTYONBACKORDER": "1",
+    "DESCRIPTION": "Spacious duffel bag with separate compartments that helps organize athletic gear, clothing, and travel essentials."
+  },
+  {
+    "ID": "ADIDAS-3STRIPESHORTS",
+    "BRANDID": "2",
+    "BRAND": "ADIDAS",
+    "ITEM": "3-Stripes Athletic Shorts",
+    "GRAPHICNAME": "3stripeshorts.png",
+    "COSTPRICE": "15.75",
+    "MSRP": "39.99",
+    "QTYONHAND": "30",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "Classic athletic shorts with lightweight fabric and side stripe styling suitable for sports and recreational activities."
+  }
+]

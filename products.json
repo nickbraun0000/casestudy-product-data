@@ -23,42 +23,6 @@
     "QTYONBACKORDER": "2",
     "DESCRIPTION": "Lightweight fleece hoodie that provides warmth, comfort, and a modern athletic style suitable for everyday activities."
   },
-  {
-    "ID": "NIKE-PROTEE",
-    "BRANDID": "1",
-    "BRAND": "Nike",
-    "ITEM": "Nike Pro Training Shirt",
-    "GRAPHICNAME": "protee.png",
-    "COSTPRICE": "18.50",
-    "MSRP": "44.99",
-    "QTYONHAND": "35",
-    "QTYONBACKORDER": "0",
-    "DESCRIPTION": "Moisture wicking athletic training shirt designed to keep athletes cool and comfortable during sports and exercise."
-  },
-  {
-    "ID": "NIKE-HERITAGEBP",
-    "BRANDID": "1",
-    "BRAND": "Nike",
-    "ITEM": "Heritage Backpack",
-    "GRAPHICNAME": "heritagebp.png",
-    "COSTPRICE": "22.75",
-    "MSRP": "59.99",
-    "QTYONHAND": "18",
-    "QTYONBACKORDER": "1",
-    "DESCRIPTION": "Durable backpack with multiple storage compartments that is ideal for school, travel, sports equipment, and daily use."
-  },
-  {
-    "ID": "NIKE-DRIFITSHORTS",
-    "BRANDID": "1",
-    "BRAND": "Nike",
-    "ITEM": "Dri-FIT Training Shorts",
-    "GRAPHICNAME": "drifitshorts.png",
-    "COSTPRICE": "16.00",
-    "MSRP": "39.99",
-    "QTYONHAND": "28",
-    "QTYONBACKORDER": "0",
-    "DESCRIPTION": "Breathable athletic shorts featuring sweat wicking fabric and flexible movement for gym workouts and outdoor activities."
-  },
 
   {
     "ID": "ADIDAS-ULTRABOOST",
@@ -73,18 +37,6 @@
     "DESCRIPTION": "Premium running shoes with responsive cushioning and supportive construction built for comfort during long distance runs."
   },
   {
-    "ID": "ADIDAS-TIROJACKET",
-    "BRANDID": "2",
-    "BRAND": "Adidas",
-    "ITEM": "Tiro Track Jacket",
-    "GRAPHICNAME": "tirojacket.png",
-    "COSTPRICE": "42.25",
-    "MSRP": "89.99",
-    "QTYONHAND": "14",
-    "QTYONBACKORDER": "2",
-    "DESCRIPTION": "Athletic track jacket with lightweight fabric and a streamlined fit designed for training sessions and casual wear."
-  },
-  {
     "ID": "ADIDAS-ESSENTIALTEE",
     "BRANDID": "2",
     "BRAND": "Adidas",
@@ -96,42 +48,7 @@
     "QTYONBACKORDER": "0",
     "DESCRIPTION": "Soft cotton t shirt featuring a classic logo design that provides comfort and versatility for everyday activities."
   },
-  {
-    "ID": "ADIDAS-STADIUMBAG",
-    "BRANDID": "2",
-    "BRAND": "Adidas",
-    "ITEM": "Stadium Duffel Bag",
-    "GRAPHICNAME": "stadiumbag.png",
-    "COSTPRICE": "29.99",
-    "MSRP": "69.99",
-    "QTYONHAND": "12",
-    "QTYONBACKORDER": "1",
-    "DESCRIPTION": "Spacious duffel bag with separate compartments that helps organize athletic gear, clothing, and travel essentials."
-  },
-  {
-    "ID": "ADIDAS-3STRIPESHORTS",
-    "BRANDID": "2",
-    "BRAND": "Adidas",
-    "ITEM": "3-Stripes Athletic Shorts",
-    "GRAPHICNAME": "3stripeshorts.png",
-    "COSTPRICE": "15.75",
-    "MSRP": "39.99",
-    "QTYONHAND": "30",
-    "QTYONBACKORDER": "0",
-    "DESCRIPTION": "Classic athletic shorts with lightweight fabric and side stripe styling suitable for sports and recreational activities."
-  },
-  {
-    "ID": "UA-HOVRSONIC",
-    "BRANDID": "3",
-    "BRAND": "Under Armour",
-    "ITEM": "HOVR Sonic Running Shoes",
-    "GRAPHICNAME": "hovrsonic.png",
-    "COSTPRICE": "82.00",
-    "MSRP": "169.99",
-    "QTYONHAND": "16",
-    "QTYONBACKORDER": "2",
-    "DESCRIPTION": "Performance running shoes designed with responsive cushioning and durable support for training and fitness activities."
-  },
+  
   {
     "ID": "UA-RIVALHOODIE",
     "BRANDID": "3",
@@ -155,29 +72,5 @@
     "QTYONHAND": "27",
     "QTYONBACKORDER": "0",
     "DESCRIPTION": "Compression athletic shirt designed to improve comfort and moisture control during intense training and workouts."
-  },
-  {
-    "ID": "UA-HUSTLEBP",
-    "BRANDID": "3",
-    "BRAND": "Under Armour",
-    "ITEM": "Hustle Backpack",
-    "GRAPHICNAME": "hustlebp.png",
-    "COSTPRICE": "26.75",
-    "MSRP": "64.99",
-    "QTYONHAND": "19",
-    "QTYONBACKORDER": "2",
-    "DESCRIPTION": "Water resistant backpack with padded straps and storage pockets that works well for school, sports, and travel."
-  },
-  {
-    "ID": "UA-PLAYUPSHORTS",
-    "BRANDID": "3",
-    "BRAND": "Under Armour",
-    "ITEM": "Play Up Athletic Shorts",
-    "GRAPHICNAME": "playupshorts.png",
-    "COSTPRICE": "14.25",
-    "MSRP": "34.99",
-    "QTYONHAND": "32",
-    "QTYONBACKORDER": "0",
-    "DESCRIPTION": "Flexible athletic shorts with lightweight material and breathable construction made for active lifestyles and training."
   }
 ]
